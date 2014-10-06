@@ -14,7 +14,7 @@ MUHELEN MURUGAN
 	
 	<!-- Define app icon MAIN ROOT Platform. -->
 
-<icon src="icon.png" />		
+<icon src="icon.png" gap:role="default" />		
 
     <!--
         Enable individual API permissions here.
